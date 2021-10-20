@@ -1,0 +1,8 @@
+- AngularJS: 
+	- https://egghead.io/courses/angularjs-fundamentals
+		- https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7
+	- https://www.youtube.com/playlist?list=PLKiuVKZics1d1rjTROMyprMQbJLNsLCoS 
+	- https://github.com/atabegruslan/Angular_CRUD_API/tree/master/Illustrations/AngularJS/readme.md
+- Angular: 
+	- https://www.youtube.com/playlist?list=PLC8OkhrVTHNHi6Do0etu_wMvAvjdjukQp
+	- https://github.com/atabegruslan/Angular_CRUD_API/tree/master/Illustrations/Angular/readme.md

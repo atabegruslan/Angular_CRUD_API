@@ -1,0 +1,10 @@
+- https://angular.io/guide/attribute-directives
+- https://stackoverflow.com/questions/20018507/angular-js-what-is-the-need-of-the-directive-s-link-function-when-we-already-ha
+- https://stackoverflow.com/questions/35377450/use-of-isolate-scope-and-in-a-simple-angular-directive
+- https://thinkster.io/scope-vs-scope
+- https://stackoverflow.com/questions/17230242/angular-element-vs-document-getelementbyid-or-jquery-selector-with-spin-busy-c
+- https://github.com/joemaddalone/ng-filltext/blob/master/ng-filltext.js
+- https://www.w3schools.com/angular/angular_routing.asp
+- https://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory
+- http://www.simplygoodcode.com/2015/11/the-difference-between-service-provider-and-factory-in-angularjs/index.html
+- https://thinkster.io/egghead/injectors
